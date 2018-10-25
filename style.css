@@ -26,7 +26,7 @@ button.accordion.is-open::after {
     
 }
 
-button.accordion:hover{
+button.accordion:hover, button.accordion.is-open {
     background-color: #ddd;
 }
 

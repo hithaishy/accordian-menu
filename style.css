@@ -22,5 +22,7 @@ button.accordian:hover{
 .accordion-content {
     padding: 0 20px;
     border-left: 2px solid whitesmoke;
-    border-right: 2px solid whitesmoke
+    border-right: 2px solid whitesmoke;
+    max-height: 0;
+    overflow: hidden;
 }
